@@ -1,0 +1,538 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1678209073146130, "dur":922, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073147061, "dur":70, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1678209073147159, "dur":15, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1678209073147174, "dur":251, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1678209073147473, "dur":446, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073147919, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939095, "dur":115, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939210, "dur":28, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939238, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939241, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939246, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939248, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939252, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939254, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939257, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939258, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939262, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939263, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939267, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939269, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939272, "dur":25, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939297, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939302, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939309, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073939325, "dur":2168, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1678209073147614, "dur":310, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073147925, "dur":3752, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073151683, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678209073151685, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073151774, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678209073151777, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073152275, "dur":1178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1678209073153456, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1678209073153521, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073153554, "dur":618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1678209073154237, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1678209073154292, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073154295, "dur":641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1678209073154994, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1678209073155074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073155902, "dur":1075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1678209073157029, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1678209073157092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073157096, "dur":702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1678209073157857, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE.exe" }}
+,{ "pid":12345, "tid":1, "ts":1678209073157907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073157923, "dur":60574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE.exe" }}
+,{ "pid":12345, "tid":1, "ts":1678209073218552, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073218609, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073218612, "dur":17059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073235752, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073235811, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073235816, "dur":66360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073302248, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073302305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073302310, "dur":20666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073323045, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073323099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073323104, "dur":27335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073350494, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073350545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073350549, "dur":21886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073372490, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073372554, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073372557, "dur":17095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073389726, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073389777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073389782, "dur":15413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073405267, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073405318, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073405322, "dur":17533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073422926, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073422982, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073422987, "dur":14771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073437846, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073437910, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073437915, "dur":72603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073510587, "dur":14964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073525553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073525556, "dur":584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073526194, "dur":100689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073626886, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073626892, "dur":555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073627508, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073627559, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073627563, "dur":125159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073752783, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073752835, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073752838, "dur":43933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1678209073796838, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":1, "ts":1678209073797013, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073797083, "dur":340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":1, "ts":1678209073797475, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1678209073797526, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073797537, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1678209073798155, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1678209073798206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073798209, "dur":358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1678209073798619, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1678209073798668, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1678209073798671, "dur":15209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1678209073813941, "dur":125142, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073147633, "dur":294, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073147928, "dur":3753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073151684, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1678209073151835, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073155504, "dur":859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1678209073156442, "dur":659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1678209073157106, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073157110, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1678209073158608, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073158673, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073159017, "dur":59327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073218409, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073218488, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073218492, "dur":32576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073251141, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073251193, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073251198, "dur":13455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073264724, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073264904, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073264909, "dur":28840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073293823, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073293877, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073293882, "dur":78014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073371975, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073372030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073372035, "dur":32350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073404464, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073404518, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073404522, "dur":18992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073423569, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073423619, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073423622, "dur":25869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073449557, "dur":48364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073497924, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073497929, "dur":660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073498683, "dur":13619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073512304, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073512323, "dur":379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073512757, "dur":54847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073567608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073567614, "dur":628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073568300, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073568349, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073568352, "dur":48432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073616846, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073616898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073616903, "dur":18744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073635716, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073635772, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073635777, "dur":148828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073784709, "dur":28432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073813143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1678209073813147, "dur":404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1678209073813606, "dur":125479, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073147655, "dur":276, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073147931, "dur":3747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073151683, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1678209073151841, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073156757, "dur":1044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1678209073157966, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1678209073158025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073158810, "dur":59013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1678209073217896, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073217961, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073217966, "dur":65613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073283651, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073283705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073283710, "dur":26355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073310123, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073310178, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073310181, "dur":27118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073337371, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073337437, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073337442, "dur":12517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073350017, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073350069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073350073, "dur":12988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073363138, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073363190, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073363195, "dur":31917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073395178, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073395242, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073395247, "dur":16682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073411996, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073412045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073412050, "dur":60753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073472872, "dur":28113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073500989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073500994, "dur":452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073501504, "dur":29297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073530804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073530809, "dur":379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073531242, "dur":58128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073589373, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073589378, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073590156, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073590205, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073590208, "dur":41067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073631335, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073631385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073631390, "dur":17978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073649445, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073649500, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073649505, "dur":129399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073778980, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073779033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1678209073779039, "dur":119770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1678209073898879, "dur":40203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073147677, "dur":258, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073147935, "dur":3747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073151684, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1678209073151839, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073155767, "dur":1539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1678209073157361, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073157429, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073157442, "dur":80171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073238431, "dur":2408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073240844, "dur":538, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073241391, "dur":33863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073275306, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073275356, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073275359, "dur":22172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073297605, "dur":70817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073368427, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073368433, "dur":533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073369022, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073369074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073369077, "dur":27690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073396840, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073396892, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073396896, "dur":13238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073410205, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073410256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073410261, "dur":20180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073430510, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073430561, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073430578, "dur":13409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073444056, "dur":23558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073467618, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073467622, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073468464, "dur":14782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073483249, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073483254, "dur":376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073483688, "dur":19053, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073502745, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073502763, "dur":532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073503349, "dur":739, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073504091, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073504096, "dur":405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073504558, "dur":19370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073523931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073523936, "dur":440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073524431, "dur":141953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073666388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073666393, "dur":593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073667050, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073667108, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073667111, "dur":26044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073693230, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073693286, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073693292, "dur":77345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073770712, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073770767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1678209073770772, "dur":168225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1678209073939071, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1678209073939072, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073147698, "dur":240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073147938, "dur":3742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073151683, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1678209073151849, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073156546, "dur":823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1678209073157430, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073157502, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073157504, "dur":60628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073218194, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073218250, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073218253, "dur":17406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073235752, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073235829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073235833, "dur":25282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073261212, "dur":818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073262034, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073262039, "dur":37381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073299497, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073299549, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073299554, "dur":13513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073313136, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073313190, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073313194, "dur":33092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073346357, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073346409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073346414, "dur":14733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073361208, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073361258, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073361262, "dur":44096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073405415, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073405465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073405468, "dur":15437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073420974, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073421031, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073421036, "dur":16728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073437848, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073437914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073437918, "dur":22424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073460401, "dur":42463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073502866, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073502869, "dur":393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073503319, "dur":13133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073516457, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073516462, "dur":584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073517130, "dur":18682, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073535814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073535818, "dur":546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073536417, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073536466, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073536471, "dur":186242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073722793, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073722861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073722866, "dur":78782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1678209073801723, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678209073801796, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073801800, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678209073802758, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1678209073802845, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073802849, "dur":3756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1678209073806690, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678209073806748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073806754, "dur":750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1678209073807567, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1678209073807696, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073807700, "dur":428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1678209073808183, "dur":690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1678209073808876, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073808881, "dur":387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1678209073809327, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678209073809379, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073809382, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1678209073810599, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1678209073810654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073810657, "dur":627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1678209073811337, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1678209073811388, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073811390, "dur":349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1678209073811791, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1678209073811840, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073811843, "dur":460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1678209073812371, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1678209073812511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1678209073812515, "dur":453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1678209073813030, "dur":126064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073147721, "dur":220, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073147941, "dur":3738, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073151683, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678209073151818, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073155830, "dur":474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1678209073156361, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1678209073156439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073156443, "dur":61466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1678209073217975, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073218029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073218032, "dur":56849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073274948, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073274998, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073275002, "dur":49491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073324555, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073324610, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073324614, "dur":23653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073348331, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073348383, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073348388, "dur":15690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073364146, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073364201, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073364205, "dur":13646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073377926, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073377983, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073377988, "dur":20690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073398748, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073398799, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073398804, "dur":34791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073433666, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073433716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073433721, "dur":28513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073462301, "dur":121781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073584085, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073584090, "dur":507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073584655, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073584706, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073584709, "dur":99786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073684585, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073684640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073684645, "dur":119405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1678209073804139, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1678209073804200, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073804206, "dur":5638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1678209073809904, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1678209073809956, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073809960, "dur":463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1678209073810482, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1678209073810536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073810538, "dur":524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1678209073811120, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1678209073811169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073811173, "dur":472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1678209073811700, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1678209073811786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1678209073811790, "dur":625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1678209073812473, "dur":126621, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073147743, "dur":201, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073147944, "dur":3743, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073151687, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1678209073151801, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073153099, "dur":495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1678209073153651, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1678209073153704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073153708, "dur":548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1678209073154308, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1678209073154372, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073154390, "dur":728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1678209073155174, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1678209073155232, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073155433, "dur":579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1678209073156070, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1678209073156125, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073156137, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1678209073157209, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073157277, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073157348, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073159139, "dur":3141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073162286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073162311, "dur":80467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073242849, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073242905, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073242923, "dur":36152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073279150, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073279202, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073279206, "dur":24393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073303671, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073303724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073303729, "dur":25816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073329618, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073329671, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073329675, "dur":19818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073349562, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073349619, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073349623, "dur":22472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073372155, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073372206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073372209, "dur":21081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073393369, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073393420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073393425, "dur":19884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073413375, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073413426, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073413431, "dur":15240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073428739, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073428793, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073428797, "dur":19595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073448463, "dur":58345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073506812, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073506817, "dur":607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073507490, "dur":17918, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073525411, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073525415, "dur":472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073525943, "dur":28845, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073554792, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073554797, "dur":408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073555256, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073555304, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073555307, "dur":30498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073585867, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073585916, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073585920, "dur":47168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073633156, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073633206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1678209073633210, "dur":179838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1678209073813108, "dur":125974, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073147761, "dur":186, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073147948, "dur":3734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073151683, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1678209073151828, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073155489, "dur":1061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1678209073156644, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1678209073156708, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073156711, "dur":673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1678209073157442, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1678209073157506, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073157508, "dur":1370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1678209073158942, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073159005, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073159033, "dur":58954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073218113, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073218177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073218194, "dur":42941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073261224, "dur":809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073262036, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073262039, "dur":47978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073310091, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073310146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073310150, "dur":50243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073360467, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073360520, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073360524, "dur":12300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073372878, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073372934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073372937, "dur":14175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073387173, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073387291, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073387295, "dur":51639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073439002, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073439057, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073439062, "dur":16921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073456051, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073456102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073456120, "dur":31290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073487481, "dur":23266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073510749, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073510753, "dur":408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073511219, "dur":474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073511696, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073511700, "dur":519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073512277, "dur":21608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073533889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073533893, "dur":374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073534323, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073534371, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073534377, "dur":48221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073582658, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073582709, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073582713, "dur":169383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073752174, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073752227, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1678209073752231, "dur":69533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/IntermediateProgramming Midterm/KILLHOUSE_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1678209073821835, "dur":117249, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1678209073942340, "dur":1354, "ph":"X", "name": "ProfilerWriteOutput" }
+,
